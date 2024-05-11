@@ -33,7 +33,7 @@ Follow these steps to get the development environment running:
 1. Clone the Git repository:
 
     ```
-    git clone <<repo link>>
+    git clone https://github.com/Rahul8320/BlogApiCQRS
     ```
 
 2. Restore packages:
